@@ -16,7 +16,6 @@ My personal portfolio <a href="https://sakibahmed.co" target="_blank">sakibhmed.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 

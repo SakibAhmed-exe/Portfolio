@@ -14,6 +14,7 @@ My personal portfolio <a href="https://sakibahmed.co" target="_blank">sakibhmed.
 - React.js
 - Node.js
 - Express.js
+- HTML5
 - CSS3
 - VsCode
 
